@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Sophmore Computer Science student at USF<br><br>🌱 Currently finishing the FreeCodeCamp Responsive Web Design Course<br><br>🤝 Looking to connect and collaborate with other Computer science students and professionals in the field<br><br>
+I am a Sophmore Computer Science student at USF passionate about building solutions for problems, no matter how big or small. <br><br>🌱 Currently finishing the Scrimba Python course<br><br>🤝 Looking to connect and collaborate with other Computer science students and professionals in the field<br><br>
 
 
 ## 🌐 Socials:
