@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Sophmore Computer Science student at USF passionate about building solutions for problems, no matter how big or small. <br><br>
+I am a Sophmore Computer Science student at USF passionate about building solutions for all problems, no matter how big or small. <br><br>
 
 # 🌱 Currently:
 - 💻 Learning Python with the Scrimba Python course<br><br>
