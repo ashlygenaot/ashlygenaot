@@ -1,9 +1,9 @@
 # 💫 About Me:
 I am a Sophmore Computer Science student at USF passionate about building solutions for problems, no matter how big or small. <br><br>
 
-#🌱 Currently finishing the Scrimba Python course<br><br>
+# 🌱 Currently finishing the Scrimba Python course<br><br>
 
-#🤝 Looking to connect and collaborate with other Computer science students and professionals in the field<br><br>
+# 🤝 Looking to connect and collaborate with other Computer science students and professionals in the field<br><br>
 
 
 # 💻 Tech Stack:
