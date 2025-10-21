@@ -2,7 +2,7 @@
 I am a Sophmore Computer Science student at USF passionate about building solutions for all problems, no matter how big or small. <br><br>
 
 # 🌱 Currently:
-- 💻 Learning JavaScript with the Scrimba JavaScript course<br><br>
+- 💻 Learning Python with Scrimba<br><br>
 - 👾 Building projects from Codedex 
 
 # 🤝 Let's Connect:
