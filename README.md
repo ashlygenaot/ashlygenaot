@@ -3,7 +3,8 @@ I am a Sophmore Computer Science student at USF passionate about building soluti
 
 # 🌱 Currently:
 - 💻 Learning Python with Scrimba<br><br>
-- 👾 Building projects from Codedex 
+- 👾 Building projects using Python and Python libraries
+- 🚀 Exploring AI and ML
 
 # 🤝 Let's Connect:
 I'm looking to connect and collaborate with other Computer science students and professionals in the field. Check out my LinkedIn below!<br><br>
