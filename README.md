@@ -1,17 +1,87 @@
-# 💫 About Me:
-I am a Sophmore Computer Science student at USF passionate about building solutions for all problems, no matter how big or small. <br><br>
 
-# 🌱 Currently:
-- 💻 Learning Python with Scrimba<br><br>
-- 👾 Building projects using Python and Python libraries<br><br>
-- 🚀 Exploring Full Stack development
 
-# 🤝 Let's Connect:
-I'm looking to connect and collaborate with other Computer science students and professionals in the field. Check out my LinkedIn below!
-##
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashly-genao-taveras/) 
+```zsh
+╭─ ashly@github  ~/portfolio  main ✔
+╰─❯ cat README.md
+```
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```zsh
+╭─ ashly@github  ~/about  main ✔
+╰─❯ whoami
+
+  Ashly Genao Taveras
+  Sophomore CS @ University of South Florida 🤘
+
+╭─ ashly@github  ~/about  main ✔
+╰─❯ cat bio.txt
+
+  I build solutions (or attempt to): big ones, small ones, the kind
+  that start as "this shouldn't take long" and somehow
+  end at 2am 🫩.
+
+╭─ ashly@github  ~/about  main ✔
+╰─❯ cat status.txt
+
+  📖 Grinding Full Stack Open
+  ⚛️  Learning React + TypeScript
+  🎯 Goal: build things real people actually use
+```
+
+---
+
+```zsh
+╭─ ashly@github  ~/skills  main ✔
+╰─❯ ls -la
+
+  drwxr-xr-x  React
+  drwxr-xr-x  TypeScript
+  drwxr-xr-x  JavaScript
+  drwxr-xr-x  Python
+  drwxr-xr-x  Git
+  drwxr-xr-x  HTML5 · CSS
+  drwxr-xr-x  Tailwind CSS
+
+```
+
+---
+
+```zsh
+╭─ ashly@github  ~/projects  main ✔
+╰─❯ git log --oneline --all
+```
+
+| Commit | Project | Stack | Description |
+|--------|---------|-------|-------------|
+| `a1b2c3d` | [Tracklytics](https://github.com/ashlygenaot/demo-marketing) | React · TailwindCSS . shadcn/ui | a responsive marketing dashboard featuring campaign CRUD, metrics, interactive charts, dark mode, and LocalStorage persistence.  |
+| `e4f5g6h` | [Simple-Login](https://github.com/ashlygenaot/Simple-Login-) | React . TS . TailwindCSS | A responsive college student profile app built with featuring authentication, form validation, editable user data, and a clean dashboard UI. |
+
+---
+
+```zsh
+╭─ ashly@github  ~/about  main ✔
+╰─❯ cat fun_facts.py
+
+  ashly = {
+    "university":  "USF 🐂",
+    "year":        "Sophomore",
+    "learning":    ["Full Stack Dev", "React + TypeScript"],
+    "irl":         ["climbing 🧗‍♀️", "gym 🏋️‍♀️", "gaming 🎮", "drawing 🎨"]
+    "debug_move":  "spam semicolons and pray 🙏",
+    "goal":        "ship something useful and functional for a small userbase.",
+  }
+
+╭─ ashly@github  ~/about  main ✔
+╰─❯ █
+```
+
+---
+
+```zsh
+╭─ ashly@github  ~/connect  main ✔
+╰─❯ open --links
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashly-genao-taveras/)
+```
