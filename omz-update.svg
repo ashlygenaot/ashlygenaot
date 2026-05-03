@@ -1,0 +1,70 @@
+<svg width="680" viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="340" rx="12" fill="#161b22"/>
+  <rect width="680" height="36" rx="12" fill="#21262d"/>
+  <rect y="24" width="680" height="12" fill="#21262d"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="18" r="6" fill="#27c93f"/>
+  <text x="340" y="23" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#666">zsh — 80×24</text>
+
+  <!-- Prompt -->
+  <text y="60" font-family="'Courier New', Courier, monospace" font-size="13">
+    <tspan x="16" fill="#e6edf3">&#x256D;&#x2500; ashly@github  </tspan><tspan fill="#79c0ff">~/portfolio</tspan><tspan fill="#e6edf3">  main &#x2714;</tspan>
+  </text>
+  <text x="16" y="76" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">&#x2570;&#x2500;&#x203A; omz update</text>
+  <text x="16" y="94" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">Updating Oh My Zsh</text>
+
+  <!-- oh (red) x=16 | my (orange) x=164 | zsh (green) x=359 -->
+
+  <!-- Row 0 -->
+  <text x="16"  y="118" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff3333">         __  </text>
+  <text x="164" y="118" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff8800">                   </text>
+  <text x="359" y="118" font-family="'Courier New', Courier, monospace" font-size="13" fill="#22cc44">             __  </text>
+
+  <!-- Row 1 -->
+  <text x="16"  y="132" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff3333">  ____  / /_ </text>
+  <text x="164" y="132" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff8800">   ____ ___  __  __</text>
+  <text x="359" y="132" font-family="'Courier New', Courier, monospace" font-size="13" fill="#22cc44"> ____  _____/ /_ </text>
+
+  <!-- Row 2 -->
+  <text x="16"  y="146" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff3333"> / __ \/ __ \</text>
+  <text x="164" y="146" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff8800">  / __ `__ \/ / / /</text>
+  <text x="359" y="146" font-family="'Courier New', Courier, monospace" font-size="13" fill="#22cc44">/_  / / ___/ __ \</text>
+
+  <!-- Row 3 -->
+  <text x="16"  y="160" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff3333">/ /_/ / / / /</text>
+  <text x="164" y="160" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff8800"> / / / / / / /_/ / </text>
+  <text x="359" y="160" font-family="'Courier New', Courier, monospace" font-size="13" fill="#22cc44"> / /_(__  ) / / /</text>
+
+  <!-- Row 4 -->
+  <text x="16"  y="174" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff3333">\____/_/ /_/ </text>
+  <text x="164" y="174" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff8800">/_/ /_/ /_/\__, /  </text>
+  <text x="359" y="174" font-family="'Courier New', Courier, monospace" font-size="13" fill="#22cc44">/___/____/_/ /_/ </text>
+
+  <!-- Row 5 -->
+  <text x="16"  y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff3333">             </text>
+  <text x="164" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ff8800">          /____/   </text>
+  <text x="359" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#22cc44">                 </text>
+
+  <!-- Divider -->
+  <line x1="16" y1="204" x2="664" y2="204" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Status -->
+  <text x="16" y="222" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">Oh My Zsh is already at the latest version.</text>
+
+  <!-- Welcome -->
+  <text y="248" font-family="'Courier New', Courier, monospace" font-size="13">
+    <tspan x="16" fill="#e6edf3">Welcome back, </tspan><tspan fill="#79c0ff">ashlygenaot</tspan><tspan fill="#e6edf3">. Now go build something. &#x1F680;</tspan>
+  </text>
+
+  <!-- Bottom prompt -->
+  <text y="274" font-family="'Courier New', Courier, monospace" font-size="13">
+    <tspan x="16" fill="#e6edf3">&#x256D;&#x2500; ashly@github  </tspan><tspan fill="#79c0ff">~/portfolio</tspan><tspan fill="#e6edf3">  main &#x2714;</tspan>
+  </text>
+  <text x="16" y="290" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">&#x2570;&#x2500;&#x203A; </text>
+
+  <!-- Blinking cursor -->
+  <rect x="47" y="277" width="8" height="14" fill="#e6edf3">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
