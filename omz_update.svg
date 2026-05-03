@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: transparent; display: flex; justify-content: center; align-items: center; min-height: 100vh; padding: 16px; }
+.terminal {
+  width: 100%;
+  max-width: 680px;
+  background: #161b22;
+  border-radius: 12px;
+  overflow: hidden;
+  font-family: 'Courier New', Courier, monospace;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+  border: 1px solid #30363d;
+}
+.titlebar {
+  background: #21262d;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  border-bottom: 1px solid #30363d;
+}
+.dot { width: 12px; height: 12px; border-radius: 50%; }
+.dot.r { background: #ff5f56; }
+.dot.y { background: #ffbd2e; }
+.dot.g { background: #27c93f; }
+.titlebar-label {
+  position: absolute; left: 50%; transform: translateX(-50%);
+  font-size: 12px; color: #666; font-family: monospace;
+}
+.body { padding: 14px 16px 20px; }
+.line { font-size: 13px; line-height: 1.6; white-space: pre; }
+
+/* Exact colors from screenshot */
+.user   { color: #e6edf3; }          /* white - ashly@github */
+.path   { color: #79c0ff; }          /* light blue - ~/portfolio */
+.branch { color: #e6edf3; }          /* white - main */
+.check  { color: #e6edf3; }          /* white - ✔ */
+.arrow  { color: #e6edf3; }          /* white - ╰─> */
+.cmd    { color: #e6edf3; }          /* white - command text */
+.output { color: #e6edf3; }          /* white - output text */
+.string { color: #79c0ff; }          /* light blue - quoted strings */
+
+pre.ascii {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 8px 0 12px;
+  white-space: pre;
+  letter-spacing: 0;
+}
+.cursor {
+  display: inline-block;
+  width: 8px; height: 15px;
+  background: #e6edf3;
+  vertical-align: middle;
+  animation: blink 1.1s step-start infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+.divider { border: none; border-top: 1px solid #30363d; margin: 10px 0; }
+
+.prompt-line { font-size: 13px; line-height: 1.4; white-space: pre; }
+</style>
+</head>
+<body>
+<div class="terminal">
+  <div class="titlebar">
+    <div class="dot r"></div>
+    <div class="dot y"></div>
+    <div class="dot g"></div>
+    <span class="titlebar-label">zsh — 80×24</span>
+  </div>
+  <div class="body">
+
+    <div class="prompt-line"><span class="user">╭─ ashly@github  </span><span class="path">~/portfolio</span><span class="user">  main ✔</span></div>
+    <div class="prompt-line"><span class="user">╰─› omz update</span></div>
+    <div class="line"><span class="path">Updating Oh My Zsh</span></div>
+
+<pre class="ascii"><span style="color:#ff3333">     _    </span>  <span style="color:#ff8800">           </span>  <span style="color:#22cc44">       _    </span>
+<span style="color:#ff3333"> ___| |_  </span>  <span style="color:#ff8800"> _ __ _  _ </span>  <span style="color:#22cc44"> _____| |_  </span>
+<span style="color:#ff3333">/ _ \ ' \ </span>  <span style="color:#ff8800">| '  \ || |</span>  <span style="color:#22cc44">|_ (_-< ' \ </span>
+<span style="color:#ff3333">\___/_||_|</span>  <span style="color:#ff8800">|_|_|_\_, |</span>  <span style="color:#22cc44">/__/__/_||_|</span>
+<span style="color:#ff3333">          </span>  <span style="color:#ff8800">      |__/ </span>  <span style="color:#22cc44">            </span></pre>
+
+    <hr class="divider">
+
+    <div class="line"><span class="output">Oh My Zsh is already at the latest version.</span></div>
+    <br>
+    <div class="line"><span class="output">Welcome back, </span><span class="string">ashlygenaot</span><span class="output">. Now go build something. 🚀</span></div>
+    <br>
+    <div class="prompt-line"><span class="user">╭─ ashly@github  </span><span class="path">~/portfolio</span><span class="user">  main ✔</span></div>
+    <div class="prompt-line"><span class="user">╰─› </span><span class="cursor"></span></div>
+
+  </div>
+</div>
+</body>
+</html>
