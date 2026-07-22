@@ -18,15 +18,16 @@
 ╰─❯ cat bio.txt
 
   I build solutions (or attempt to): big ones, small ones, the kind
-  that start as "this shouldn't take long" and somehow
-  end at 2am 🫩.
+  that start as "a quick coding sesh" and somehow
+  end at 3 am 🫩.
 
 ╭─ ashly@github  ~/about  main ✔
 ╰─❯ cat status.txt
 
-  📖 Grinding Full Stack Open
-  ⚛️  Learning React + TypeScript
-  🎯 Goal: build things real people actually use
+  Currently:
+  Building personal projects
+  Learning React 
+  Goal: build things real people actually use
 ```
 
 ---
@@ -38,7 +39,9 @@
   drwxr-xr-x  React
   drwxr-xr-x  TypeScript
   drwxr-xr-x  JavaScript
+  drwxr-xr-x  Express
   drwxr-xr-x  Python
+  drwxr-xr-x  MongoDB
   drwxr-xr-x  Git
   drwxr-xr-x  HTML5 · CSS
   drwxr-xr-x  Tailwind CSS
@@ -67,10 +70,9 @@
   ashly = {
     "university":  "USF 🐂",
     "year":        "Sophomore",
-    "learning":    ["Full Stack Dev", "React + TypeScript", "DevOps"],
+    "learning":    ["Full Stack Dev", "React", "DevOps"],
     "irl":         ["climbing 🧗‍♀️", "gym 🏋️‍♀️", "gaming 🎮", "drawing 🎨"]
-    "debug_move":  "spam semicolons and pray 🙏",
-    "goal":        "ship something useful and functional for a small userbase.",
+    "goal":        "ship something useful and functional for a small user base.",
   }
 
 ╭─ ashly@github  ~/about  main ✔
