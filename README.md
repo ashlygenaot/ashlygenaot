@@ -25,7 +25,6 @@
   Currently:
   Building personal projects
   Learning React 
-  Goal: build things real people actually use
 ```
 
 ---
@@ -66,9 +65,9 @@
 ╰─❯ cat fun_facts.py
 
   ashly = {
-    "learning":    ["Full Stack Dev", "React", "DevOps", "Chrome Extensions"],
+    "learning":    ["Full Stack Dev", "React", "DevOps", "Cloud", "Chrome Extensions"],
     "irl":         ["climbing 🧗‍♀️", "gym 🏋️‍♀️", "gaming 🎮", "drawing 🎨"]
-    "goal":        "ship something useful and functional for a small user base.",
+    "career goal":  "Full-Stack Software Engineer or DevOps Engineer",
   }
 
 ╭─ ashly@github  ~/about  main ✔
