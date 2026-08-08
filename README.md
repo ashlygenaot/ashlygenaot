@@ -12,14 +12,12 @@
 ╰─❯ whoami
 
   Ashly Genao Taveras
-  Sophomore CS @ University of South Florida 🤘
+  Junior CS @ University of South Florida 🤘
 
 ╭─ ashly@github  ~/about  main ✔
 ╰─❯ cat bio.txt
 
-  I build solutions (or attempt to): big ones, small ones, the kind
-  that start as "a quick coding sesh" and somehow
-  end at 3 am 🫩.
+  I am a Software Developer currently learning Full-Stack and Dev-Ops and looking to contribute to real-world projects, grow my technical skills, and learn from experienced developers through internships.
 
 ╭─ ashly@github  ~/about  main ✔
 ╰─❯ cat status.txt
@@ -68,9 +66,7 @@
 ╰─❯ cat fun_facts.py
 
   ashly = {
-    "university":  "USF 🐂",
-    "year":        "Sophomore",
-    "learning":    ["Full Stack Dev", "React", "DevOps"],
+    "learning":    ["Full Stack Dev", "React", "DevOps", "Chrome Extensions"],
     "irl":         ["climbing 🧗‍♀️", "gym 🏋️‍♀️", "gaming 🎮", "drawing 🎨"]
     "goal":        "ship something useful and functional for a small user base.",
   }
