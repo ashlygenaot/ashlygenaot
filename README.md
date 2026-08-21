@@ -18,7 +18,7 @@
 ╰─❯ cat bio.txt
 
   I am a Software Developer currently learning Full-Stack and DevOps
-  and looking to contribute to real-world projects, grow my technical
+  looking to contribute to real-world projects, grow my technical
   skills, and learn from experienced developers through internships.
 
 ╭─ ashly@github  ~/about  main ✔
@@ -41,6 +41,7 @@
   drwxr-xr-x  Express
   drwxr-xr-x  Python
   drwxr-xr-x  MongoDB
+  drwxr-xr-x  PostgreSQL
   drwxr-xr-x  Git
   drwxr-xr-x  HTML5 · CSS
   drwxr-xr-x  Tailwind CSS
@@ -68,8 +69,8 @@
 
   ashly = {
     "learning":    ["Full Stack Dev", "React", "DevOps", "Cloud", "Chrome Extensions"],
-    "irl":         ["climbing 🧗‍♀️", "gym 🏋️‍♀️", "gaming 🎮", "drawing 🎨"]
-    "career goal":  "Full-Stack Software Engineer or DevOps Engineer",
+    "irl":         ["climbing 🧗‍♀️", "gym 🏋️‍♀️", "gaming 🎮", "drawing 🎨"],
+    "career goal": ["Full-Stack Software Engineer], ["DevOps Engineer"]
   }
 
 ╭─ ashly@github  ~/about  main ✔
