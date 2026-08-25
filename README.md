@@ -68,9 +68,9 @@
 ╰─❯ cat fun_facts.py
 
   ashly = {
-    "learning":    ["Full Stack Dev", "React", "DevOps", "Cloud", "Chrome Extensions"],
-    "irl":         ["climbing 🧗‍♀️", "gym 🏋️‍♀️", "gaming 🎮", "drawing 🎨"],
-    "career goal": ["Full-Stack Software Engineer], ["DevOps Engineer"]
+    "learning":    ["Full-Stack Development", "React", "DevOps", "Cloud", "Chrome Extensions"],
+    "irl":         ["climbing", "gym", "gaming", "drawing"],
+    "career goal": "Full-Stack Software Engineer or DevOps Engineer"
   }
 
 ╭─ ashly@github  ~/about  main ✔
